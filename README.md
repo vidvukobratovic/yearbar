@@ -27,31 +27,39 @@ Examples include:
 2026
 [██████████░░░░░░░░░░░░░░] 31.5%
 Day 115 / 365
+```
 
-### -- dots 
+### Dots 
 
+```
 ● ● ● ● ● ● ● ● ● ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+```
 
+### Stats 
 
-### -- stats 
-
+```
 Year       : 2026
 Day        : 115
 Days total : 365
 Days left  : 250
 Progress   : 31.51%
+```
 
 
-### zen 
+### Zen 
 
+```
 ██████████░░░░░░░░░░░░░░░░
+```
 
 
 ## Installation (local)
+```
 clone the repository and install in editable mode:
 git clone git@github.com:vidvukobratovic/yearbar.git
 cd yearbar
 pip install -e .
+```
 
 
 ## Usage
